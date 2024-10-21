@@ -2,7 +2,7 @@ services:
 
   recruit:
     container_name: recruit_python
-    image: recruit/python
+    image: recruit
     build:
       context: .
       dockerfile: ./Dockerfile
