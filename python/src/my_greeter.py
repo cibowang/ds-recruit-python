@@ -11,5 +11,5 @@ class MyGreeter:
         else:
             return 'Good evening'
 
-_my_greeter = MyGreeter()
-print(_my_greeter.greeting())
+_my_beta_greeter = MyGreeter()
+print(_my_beta_greeter.greeting())
